@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Daniel",
+      "image": "./img1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Sean",
+      "image": "./img2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Chloe",
+      "image": "./img3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Max",
+      "image": "./img4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Aloy",
+      "image": "./img5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Doug Funnie",
+      "image": ""
+    },
+    {
+      "id": 7,
+      "name": "Bugs Bunny",
+      "image": ""
+    },
+    {
+      "id": 8,
+      "name": "Johnny Bravo",
+      "image": ""
+    },
+    {
+      "id": 9,
+      "name": "Tommy Pickles",
+      "image": ""
+    },
+    {
+      "id": 10,
+      "name": "Rocko",
+      "image": ""
+    },
+    {
+      "id": 11,
+      "name": "Captain Planet",
+      "image": ""
+    },
+    {
+      "id": 12,
+      "name": "Ickis",
+      "image": ""
+    }
+  ]
+  

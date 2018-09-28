@@ -1,0 +1,17 @@
+.navbar-dark {
+  background-color: #563d7c;
+}
+
+.navbar-dark a {
+  color: white;
+}
+
+.jumbotron {
+  color: white;
+  background-color: black;
+}
+
+.img-container {
+  height: 170px;
+  width: 170px;
+}
