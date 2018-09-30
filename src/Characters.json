@@ -2,74 +2,62 @@
     {
       "id": 1,
       "name": "Daniel",
-      "image": "https://image.ibb.co/h1juMz/img1.jpg",
-      "clicked": false
+      "image": "https://image.ibb.co/h1juMz/img1.jpg"
     },
     {
       "id": 2,
       "name": "Sean",
-      "image": "https://image.ibb.co/idXQTe/img2.jpg",
-      "clicked": false
+      "image": "https://image.ibb.co/idXQTe/img2.jpg"
     },
     {
       "id": 3,
       "name": "Chloe",
-      "image": "https://image.ibb.co/k7gKoe/img3.jpg",
-      "clicked": false
+      "image": "https://image.ibb.co/k7gKoe/img3.jpg"
     },
     {
       "id": 4,
       "name": "Max",
-      "image": "https://image.ibb.co/cHrVuK/img4.jpg",
-      "clicked": false
+      "image": "https://image.ibb.co/cHrVuK/img4.jpg"
     },
     {
       "id": 5,
       "name": "Aloy",
-      "image": "https://image.ibb.co/mntM1z/img5.jpg",
-      "clicked": false
+      "image": "https://image.ibb.co/mntM1z/img5.jpg"
     },
     {
       "id": 6,
       "name": "Rost",
-      "image": "https://image.ibb.co/m35ZMz/img6.jpg",
-      "clicked": false
+      "image": "https://image.ibb.co/m35ZMz/img6.jpg"
     },
     {
       "id": 7,
       "name": "Talanah",
-      "image": "https://image.ibb.co/fHdX8e/img7.png",
-      "clicked": false
+      "image": "https://image.ibb.co/fHdX8e/img7.png"
     },
     {
       "id": 8,
       "name": "Vanasha",
-      "image": "https://image.ibb.co/c4WkTe/img8.png",
-      "clicked": false
+      "image": "https://image.ibb.co/c4WkTe/img8.png"
     },
     {
       "id": 9,
       "name": "Lara",
-      "image": "https://image.ibb.co/cTRwZK/img9.jpg",
-      "clicked": false
+      "image": "https://image.ibb.co/cTRwZK/img9.jpg"
     },
     {
       "id": 10,
       "name": "Sam",
-      "image": "https://image.ibb.co/bLkZMz/img10.jpg",
-      "clicked": false
+      "image": "https://image.ibb.co/bLkZMz/img10.jpg"
     },
     {
       "id": 11,
       "name": "Ellie",
-      "image": "https://image.ibb.co/i2mwZK/img11.jpg",
-      "clicked": false
+      "image": "https://image.ibb.co/i2mwZK/img11.jpg"
     },
     {
       "id": 12,
       "name": "Joel",
-      "image": "https://image.ibb.co/hGETgz/img12.jpg",
-      "clicked": false
+      "image": "https://image.ibb.co/hGETgz/img12.jpg"
     }
   ]
   

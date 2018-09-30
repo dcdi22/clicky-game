@@ -67,7 +67,8 @@ class App extends Component {
        <ClickyContainer>
           {this.state.Characters.map((el) => (
             <Card 
-                key={el.id} 
+                key={el.id}
+                id={el.id} 
                 name={el.name} 
                 image={el.image}
                 handleClick={this.handleClick}
