@@ -11,7 +11,17 @@
   background-color: black;
 }
 
+.clickyholder {
+  height: 170px;
+  width: 170px;
+}
+
 .img-container {
   height: 170px;
   width: 170px;
 }
+
+  .img-container img{
+    height: 170px;
+    width: 170px;
+  }

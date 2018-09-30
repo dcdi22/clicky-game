@@ -1,6 +1,6 @@
 import React from "react";
 
-class Form extends React.Component {
+class Jumbotron extends React.Component {
     render() {
         return (
             <div className="jumbotron jumbotron-fluid text-center">
@@ -13,10 +13,10 @@ class Form extends React.Component {
     }
 };
 
-// <form onSubmit={this.props.getWeather}>
+// <Jumbotron onSubmit={this.props.getWeather}>
             //     <input type="text" name="city" placeholder="city"></input>
             //     <input type="text" name="country" placeholder="country"></input>
             //     <button>Get Weather</button>
-            // </form>
+            // </Jumbotron>
 
-export default Form;
+export default Jumbotron;
